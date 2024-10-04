@@ -1,8 +1,8 @@
-# Dona Águia - Landing Page
+# Gesso Silva - Landing Page
 
 [Visite a página](https://gessosilva.vercel.app/)
 
-Este projeto é uma landpage para a empresa Gesso Silva. Criei esta página utilizando Next.js, TailwindCSS, React e TypeScript, com o objetivo de mostrar os serviços que a empres oferece e facilitar o contat com a empresa atravéz com a integração com o whatsapp.
+Este projeto é uma landing page para a empresa Gesso Silva. Criei esta página utilizando Next.js, TailwindCSS, React e TypeScript, com o objetivo de mostrar os serviços que a empres oferece e facilitar o contat com a empresa atravéz com a integração com o whatsapp.
 
 ## Tecnologias Utilizadas
 
